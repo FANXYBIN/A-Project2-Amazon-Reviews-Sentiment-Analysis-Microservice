@@ -59,6 +59,7 @@ gcloud run deploy classify-article \
   --region=us-central1 \
   --allow-unauthenticated \
   --memory=2048Mi
+```
 
 ---
 
