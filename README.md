@@ -45,8 +45,8 @@ The final DistilBERT model was deployed as a **serverless microservice**.
 ---
 
 ### 🧪 API Testing
-<div align="center"> <img src="images/API_testing-postman.png" alt="API Testing Screenshot 1" width="600"/> <p><em>Testing the API with user-written review input.</em></p> </div>
-<div align="center"> <img src="images/API_testing-google colab.png" alt="API Testing Screenshot 2" width="600"/> <p><em>API successfully returns predicted sentiment.</em></p> </div>
+<div align="center"> <img src="images/API_testing-postman.png" alt="API Testing Screenshot 1" width="600"/> <p><em>Testing the API with Postman.</em></p> </div>
+<div align="center"> <img src="images/API_testing-google colab.png" alt="API Testing Screenshot 2" width="600"/> <p><em>Testing the API with Google Colab.</em></p> </div>
 
 ---
 
